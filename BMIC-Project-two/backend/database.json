@@ -1,0 +1,444 @@
+{
+  "0xAf66D5837a0EE5961d7a72AFE64C34fd68be9566": {
+    "address": "0xAf66D5837a0EE5961d7a72AFE64C34fd68be9566",
+    "referrer": "0xbBc2DeE634613cB249EDA4bb7E06571D9716Ca75",
+    "tier": "V0",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": []
+  },
+  "0xbBc2DeE634613cB249EDA4bb7E06571D9716Ca75": {
+    "address": "0xbBc2DeE634613cB249EDA4bb7E06571D9716Ca75",
+    "referrer": null,
+    "tier": "V1",
+    "directCount": 2,
+    "totalSales": 28,
+    "legs": {
+      "0xAf66D5837a0EE5961d7a72AFE64C34fd68be9566": 0,
+      "0x999eB7fD04a68FC4B2d7Dff1Ad8B2e555280e3D0": 27
+    },
+    "maxLeg": 27,
+    "smallArea": 1,
+    "directs": [
+      "0xAf66D5837a0EE5961d7a72AFE64C34fd68be9566",
+      "0x999eB7fD04a68FC4B2d7Dff1Ad8B2e555280e3D0"
+    ]
+  },
+  "0x999eB7fD04a68FC4B2d7Dff1Ad8B2e555280e3D0": {
+    "address": "0x999eB7fD04a68FC4B2d7Dff1Ad8B2e555280e3D0",
+    "referrer": "0xbBc2DeE634613cB249EDA4bb7E06571D9716Ca75",
+    "tier": "V1",
+    "directCount": 1,
+    "totalSales": 26,
+    "legs": {
+      "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85": 26
+    },
+    "maxLeg": 26,
+    "smallArea": 0,
+    "directs": [
+      "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85"
+    ]
+  },
+  "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85": {
+    "address": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "referrer": "0x999eB7fD04a68FC4B2d7Dff1Ad8B2e555280e3D0",
+    "tier": "V2",
+    "directCount": 21,
+    "totalSales": 25,
+    "legs": {
+      "0x8E5AA8b2B03B9d5306DdB37cebC8493E0c2Ce3Fb": 4,
+      "0xa155384Cbb570A2AE4415d292671A54479231d85": 1,
+      "0xC45E767Cf7217ef3C3062a0d57293142dC3225a4": 2,
+      "0xE6db596264384971a68327cACab63b4D6C0BcD3C": 1,
+      "0xe1686B89A519630875f0edB3585741AC8cE5197F": 1,
+      "0xfA0124fC61E95fd229210079BcEa58464C1843d6": 1,
+      "0x2505D7E23a9f77573Cd50cF318F5b2C8F96f6a3b": 1,
+      "0xeaCE0c2dBF2CcCB76Fa03FE888A6147BebBa32d5": 1,
+      "0xe704eBa34a8C7100ff76123c9A314f4237a8C672": 1,
+      "0x4a53E9494cB19ef6fcc4753E58481fa99149903e": 1,
+      "0xdaE651BE9E92B2841106459FD13E63D2ec347496": 1,
+      "0xb5a15c105A9DBDaE4b7914543b474B90f5dDf4B1": 1,
+      "0x78c3fe753eb24B58493352C7514A70552dE3dfBD": 1,
+      "0xC3b817b521aa101fa3e76593D0898330d33A01cB": 1,
+      "0x00Cc839462df17015ff13916e700Aa9F5C5f8D43": 1,
+      "0xdD4723eCe596f0C2D94DC9860Bb1337C9A39C474": 1,
+      "0xb17dc6d05218471aF8aaA5879c8239CDb81c3fa6": 1,
+      "0x16A3AD380803085239530EC51c58DAe6c70C0D09": 1,
+      "0xeE2Ada0c9ab269b5521e32a145E35FF87BDAbfFa": 1,
+      "0x55E2F4c76637206b825FFf6b4601fcd9352E5B1D": 1,
+      "0xe2934DBa6226905e961911dF01436247cDBa2D1b": 1
+    },
+    "maxLeg": 4,
+    "smallArea": 21,
+    "directs": [
+      "0x8E5AA8b2B03B9d5306DdB37cebC8493E0c2Ce3Fb",
+      "0xa155384Cbb570A2AE4415d292671A54479231d85",
+      "0xC45E767Cf7217ef3C3062a0d57293142dC3225a4",
+      "0xE6db596264384971a68327cACab63b4D6C0BcD3C",
+      "0xe1686B89A519630875f0edB3585741AC8cE5197F",
+      "0xfA0124fC61E95fd229210079BcEa58464C1843d6",
+      "0x2505D7E23a9f77573Cd50cF318F5b2C8F96f6a3b",
+      "0xeaCE0c2dBF2CcCB76Fa03FE888A6147BebBa32d5",
+      "0xe704eBa34a8C7100ff76123c9A314f4237a8C672",
+      "0x4a53E9494cB19ef6fcc4753E58481fa99149903e",
+      "0xdaE651BE9E92B2841106459FD13E63D2ec347496",
+      "0xb5a15c105A9DBDaE4b7914543b474B90f5dDf4B1",
+      "0x78c3fe753eb24B58493352C7514A70552dE3dfBD",
+      "0xC3b817b521aa101fa3e76593D0898330d33A01cB",
+      "0x00Cc839462df17015ff13916e700Aa9F5C5f8D43",
+      "0xdD4723eCe596f0C2D94DC9860Bb1337C9A39C474",
+      "0xb17dc6d05218471aF8aaA5879c8239CDb81c3fa6",
+      "0x16A3AD380803085239530EC51c58DAe6c70C0D09",
+      "0xeE2Ada0c9ab269b5521e32a145E35FF87BDAbfFa",
+      "0x55E2F4c76637206b825FFf6b4601fcd9352E5B1D",
+      "0xe2934DBa6226905e961911dF01436247cDBa2D1b"
+    ]
+  },
+  "0x8E5AA8b2B03B9d5306DdB37cebC8493E0c2Ce3Fb": {
+    "address": "0x8E5AA8b2B03B9d5306DdB37cebC8493E0c2Ce3Fb",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 1,
+    "totalSales": 3,
+    "legs": {
+      "0xF9E96d2AC6AEDf7BEc6258C599e57aecf55B693d": 3
+    },
+    "maxLeg": 3,
+    "smallArea": 0,
+    "directs": [
+      "0xF9E96d2AC6AEDf7BEc6258C599e57aecf55B693d"
+    ],
+    "registerTime": 1768633808918
+  },
+  "0xa155384Cbb570A2AE4415d292671A54479231d85": {
+    "address": "0xa155384Cbb570A2AE4415d292671A54479231d85",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768636359860
+  },
+  "0xC45E767Cf7217ef3C3062a0d57293142dC3225a4": {
+    "address": "0xC45E767Cf7217ef3C3062a0d57293142dC3225a4",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 1,
+    "totalSales": 1,
+    "legs": {
+      "0x06e321590e00DA0a8C7341D3246017bb755d2520": 1
+    },
+    "maxLeg": 1,
+    "smallArea": 0,
+    "directs": [
+      "0x06e321590e00DA0a8C7341D3246017bb755d2520"
+    ],
+    "registerTime": 1768636756519
+  },
+  "0x06e321590e00DA0a8C7341D3246017bb755d2520": {
+    "address": "0x06e321590e00DA0a8C7341D3246017bb755d2520",
+    "referrer": "0xC45E767Cf7217ef3C3062a0d57293142dC3225a4",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768637355813
+  },
+  "0xF9E96d2AC6AEDf7BEc6258C599e57aecf55B693d": {
+    "address": "0xF9E96d2AC6AEDf7BEc6258C599e57aecf55B693d",
+    "referrer": "0x8E5AA8b2B03B9d5306DdB37cebC8493E0c2Ce3Fb",
+    "tier": "V1",
+    "directCount": 1,
+    "totalSales": 2,
+    "legs": {
+      "0x11320EfA86bB04868e12714eC859a72d9B720263": 2
+    },
+    "maxLeg": 2,
+    "smallArea": 0,
+    "directs": [
+      "0x11320EfA86bB04868e12714eC859a72d9B720263"
+    ],
+    "registerTime": 1768641142402
+  },
+  "0x68dEF49a263989fC67790B414C88Dd927753B545": {
+    "address": "0x68dEF49a263989fC67790B414C88Dd927753B545",
+    "referrer": "0x11320EfA86bB04868e12714eC859a72d9B720263",
+    "tier": "V1",
+    "directCount": 1,
+    "totalSales": 1,
+    "legs": {
+      "0x1297B09A5D09d7cBB2b08Ec9CbB493BD566d1e6D": 1
+    },
+    "maxLeg": 1,
+    "smallArea": 0,
+    "directs": [
+      "0x1297B09A5D09d7cBB2b08Ec9CbB493BD566d1e6D"
+    ],
+    "registerTime": 1768641460735
+  },
+  "0x11320EfA86bB04868e12714eC859a72d9B720263": {
+    "address": "0x11320EfA86bB04868e12714eC859a72d9B720263",
+    "referrer": "0xF9E96d2AC6AEDf7BEc6258C599e57aecf55B693d",
+    "tier": "V1",
+    "directCount": 1,
+    "totalSales": 2,
+    "legs": {
+      "0x68dEF49a263989fC67790B414C88Dd927753B545": 2
+    },
+    "maxLeg": 2,
+    "smallArea": 0,
+    "directs": [
+      "0x68dEF49a263989fC67790B414C88Dd927753B545"
+    ],
+    "registerTime": 1768641986322
+  },
+  "0x1297B09A5D09d7cBB2b08Ec9CbB493BD566d1e6D": {
+    "address": "0x1297B09A5D09d7cBB2b08Ec9CbB493BD566d1e6D",
+    "referrer": "0x68dEF49a263989fC67790B414C88Dd927753B545",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768650196400
+  },
+  "0xE6db596264384971a68327cACab63b4D6C0BcD3C": {
+    "address": "0xE6db596264384971a68327cACab63b4D6C0BcD3C",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651314793
+  },
+  "0xe1686B89A519630875f0edB3585741AC8cE5197F": {
+    "address": "0xe1686B89A519630875f0edB3585741AC8cE5197F",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651382080
+  },
+  "0xfA0124fC61E95fd229210079BcEa58464C1843d6": {
+    "address": "0xfA0124fC61E95fd229210079BcEa58464C1843d6",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651413322
+  },
+  "0x2505D7E23a9f77573Cd50cF318F5b2C8F96f6a3b": {
+    "address": "0x2505D7E23a9f77573Cd50cF318F5b2C8F96f6a3b",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651500114
+  },
+  "0xeaCE0c2dBF2CcCB76Fa03FE888A6147BebBa32d5": {
+    "address": "0xeaCE0c2dBF2CcCB76Fa03FE888A6147BebBa32d5",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651540947
+  },
+  "0xe704eBa34a8C7100ff76123c9A314f4237a8C672": {
+    "address": "0xe704eBa34a8C7100ff76123c9A314f4237a8C672",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651578289
+  },
+  "0x4a53E9494cB19ef6fcc4753E58481fa99149903e": {
+    "address": "0x4a53E9494cB19ef6fcc4753E58481fa99149903e",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651633893
+  },
+  "0xdaE651BE9E92B2841106459FD13E63D2ec347496": {
+    "address": "0xdaE651BE9E92B2841106459FD13E63D2ec347496",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651739747
+  },
+  "0xb5a15c105A9DBDaE4b7914543b474B90f5dDf4B1": {
+    "address": "0xb5a15c105A9DBDaE4b7914543b474B90f5dDf4B1",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651785817
+  },
+  "0x78c3fe753eb24B58493352C7514A70552dE3dfBD": {
+    "address": "0x78c3fe753eb24B58493352C7514A70552dE3dfBD",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651813181
+  },
+  "0xC3b817b521aa101fa3e76593D0898330d33A01cB": {
+    "address": "0xC3b817b521aa101fa3e76593D0898330d33A01cB",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651859166
+  },
+  "0x00Cc839462df17015ff13916e700Aa9F5C5f8D43": {
+    "address": "0x00Cc839462df17015ff13916e700Aa9F5C5f8D43",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651896124
+  },
+  "0xdD4723eCe596f0C2D94DC9860Bb1337C9A39C474": {
+    "address": "0xdD4723eCe596f0C2D94DC9860Bb1337C9A39C474",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651942760
+  },
+  "0xb17dc6d05218471aF8aaA5879c8239CDb81c3fa6": {
+    "address": "0xb17dc6d05218471aF8aaA5879c8239CDb81c3fa6",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768651965291
+  },
+  "0x16A3AD380803085239530EC51c58DAe6c70C0D09": {
+    "address": "0x16A3AD380803085239530EC51c58DAe6c70C0D09",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768652002618
+  },
+  "0xeE2Ada0c9ab269b5521e32a145E35FF87BDAbfFa": {
+    "address": "0xeE2Ada0c9ab269b5521e32a145E35FF87BDAbfFa",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768652035443
+  },
+  "0x55E2F4c76637206b825FFf6b4601fcd9352E5B1D": {
+    "address": "0x55E2F4c76637206b825FFf6b4601fcd9352E5B1D",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768652081113
+  },
+  "0xe2934DBa6226905e961911dF01436247cDBa2D1b": {
+    "address": "0xe2934DBa6226905e961911dF01436247cDBa2D1b",
+    "referrer": "0xA8375fc9B52bA0333BCB1162f989e217b38e5a85",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768653898513
+  },
+  "0x1BA27FF81492413385B6810a2bBee398549A4B5c": {
+    "address": "0x1BA27FF81492413385B6810a2bBee398549A4B5c",
+    "referrer": "0x0000000000000000000000000000000000000000",
+    "tier": "V1",
+    "directCount": 0,
+    "totalSales": 0,
+    "legs": {},
+    "maxLeg": 0,
+    "smallArea": 0,
+    "directs": [],
+    "registerTime": 1768716104861
+  }
+}
